@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 azul
+rojo
+>>>>>>> 1bc8ef0f3471b780ed57b919ad85b010b6abc526
